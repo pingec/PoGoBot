@@ -1,0 +1,3 @@
+PTCuser1,password1,PTCuser1@example.com,activated
+PTCuser2,password1,PTCuser2@example.com,activated
+PTCuser3,password1,PTCuser3@example.com,activated
